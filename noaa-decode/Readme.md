@@ -14,7 +14,8 @@ The above program requires ImageMagick package that can be installed by
 
 Close 'Figure 1'. Resize and rotate the generated image to see the output.  
 2.  
-noaa_gnuradio.pyc is a compiled python file. The objective of the assignment is to generate a flowgraph on GNU radio to decode NOAA wav files. To run this compiled file,  
+The objective of the assignment is to generate a flowgraph on GNU radio to decode NOAA wav files. Refer the research paper for this purpose - Good luck!  
+noaa_gnuradio.pyc is a compiled python file for the same. To run this compiled file,  
 
         python noaa_gnuradio.pyc ../recorded/090729\ 1428\ noaa-18.wav
 
