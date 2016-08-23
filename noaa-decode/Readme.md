@@ -21,7 +21,8 @@ noaa_gnuradio.pyc is a compiled python file for the same. To run this compiled f
 
 This will create output.dat file which must be converted to png format to view the image. This can be done via  
 
-    convert -size 2080x1024 -depth 8 gray:output.dat output.png  
+    convert -size 2080x1024 -depth 8 gray:output.dat output.png
+Rotate the generated image to see the output.  
 3.  
 To record NOAA signals on your own, use the GRC file provided. NOAA satellites can be tracked using gpredict software or websites like http://www.n2yo.com/satellites/?c=4
 
