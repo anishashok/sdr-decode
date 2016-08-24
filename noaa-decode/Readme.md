@@ -26,5 +26,5 @@ Rotate the generated image to see the output.
 3.  
 To record NOAA signals on your own, use the GRC file provided. NOAA satellites can be tracked using gpredict software or websites like http://www.n2yo.com/satellites/?c=4  
 4.  
-The research paper caqn be found at in the noaa-decode folder or at https://www.researchgate.net/publication/247957486_NOAA_Signal_Decoding_And_Image_Processing_Using_GNU-Radio
+The research paper can be found in the noaa-decode folder or at https://www.researchgate.net/publication/247957486_NOAA_Signal_Decoding_And_Image_Processing_Using_GNU-Radio
 
